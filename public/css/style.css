@@ -1,13 +1,133 @@
+img {
+  max-width: 100%;
+}
+
+a {
+  text-align: center;
+}
+
+.common__ttl {
+  font-size: 24px;
+  font-weight: bold;
+  font-family: "Indie Flower", cursive;
+    color: rgb(238, 20, 93);
+    margin: 10px 0px 10px 0px;
+}
 .logo {
-  width: 100%;
-  height: auto;
+  margin: 10% 10%;
 }
 
 .topgirl {
-  width: 100%;
-  height: auto;
+  text-align: center;
+  margin:10%;
+  }
+
+.tophome{
+  text-align: center;
+    color: black;
+    margin-top: 5px;
 }
 
-img{
-max-width:100%;
+.home{
+text-align: center;
+color: red;
 }
+
+.tell {
+  text-align: center;
+
+}
+
+.tweet{
+  text-align: center;
+  margin: 0% 10%;
+}
+
+.flex__item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.item {
+  width: 30%;
+  position: relative;
+  display: block;
+}
+
+.space{
+  margin-top: 25px;
+}
+
+#back{
+background-image: url("../img/publicdomainq-0044080hep.jpg");
+padding: 5px 0px 140px 0px;;
+}
+
+#back2 {
+  background:rgb(227, 225, 225);
+  padding: 10px 5px 40px 0px;
+}
+
+.topgirl2 {
+  text-align: center;
+}
+
+.today{
+      width: 40%;
+      height: 175px;
+      position: relative;
+      display: block;
+      background: #97db0e;
+        color: #fff;
+        border-radius: 10px;
+        margin: 10px;
+}
+
+.todayitem{
+  position: absolute;
+  top: 0;
+  padding: 5px 20px;
+  border-radius: 10px;
+}
+
+.todaytext{
+    position: absolute;
+    top: 125px;
+    left: 50%;
+      transform: translateX(-50%);
+  }
+    .todaytext2 {
+      position: absolute;
+      top: 145px;
+      left: 22px;
+
+    }
+
+ .header { 
+  top: 0;
+   /*下に固定*/
+   
+     height: 24px;
+      font-size: 18px;
+       background: #e6566e;
+      font-weight: bold;
+      color: #fff;
+  }
+
+  .htext{
+    text-align: left;
+      vertical-align: middle;
+
+  }
+
+        .footer {
+
+            bottom: 0;
+            /*下に固定*/
+          text-align: center;
+          height: 60px;
+          line-height: 60px;
+          font-size: 7px;
+         
+          background: #e6566e;
+        }
