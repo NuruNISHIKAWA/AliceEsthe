@@ -14,14 +14,14 @@
     <div>
             名古屋栄メンズエステ【nurunuru（ぬるぬる）】
         </div>
-        <div>
+        <div class="logo">
             <img src="img/IMG_1287.PNG" alt="">
         </div>
         <p>
           貴方と私の二人だけの時間<br><br>
           ようこそ楽園へ
         </p>
-        <div>
+        <div class="topgirl">
             <img src="img/IMG_1286.JPG" alt="">
         </div>
 
