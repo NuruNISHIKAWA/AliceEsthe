@@ -19,3 +19,11 @@ Route::get('/', function () {
 });
 
 Route::get('/', [EstheticController::class, 'index']);
+
+Route::get('/list', [EstheticController::class, 'list']);
+
+Route::get('/girl', [EstheticController::class, 'girl']);
+
+Route::get('/schedule', [EstheticController::class, 'schedule']);
+
+Route::get('/menu', [EstheticController::class, 'menu']);

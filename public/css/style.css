@@ -131,3 +131,171 @@ padding: 5px 0px 140px 0px;;
          
           background: #e6566e;
         }
+
+/*---------------------list--------------------- */
+
+.line{
+  
+  padding: 2px;
+  margin-top: 30px;
+  background: #e95d50;
+  /*背景色*/
+}
+
+.listgirl {
+
+  margin: 30px auto 20px;
+width: 75%;
+  /*背景色*/
+  text-align: center;
+}
+
+.messe{
+  text-align: center;
+  font-size: 12px;
+}
+.messe1 {
+  text-align: center;
+  font-size: 12px;
+}
+
+.messe2 {
+  margin: 10px auto 40px;
+  font-size: 10px;
+  width: 80%;
+}
+
+.grid_girl {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  width: 98%;
+  margin: 10px auto;
+}
+
+.grid_photo{
+  grid-row: 1/2;
+  
+}
+
+.grid_detail {
+  grid-row: 1/2;
+  font-size: 12px;
+  margin: 5px 5px;
+}
+
+/*---------------------girl--------------------- */
+
+.name{
+  font-size: 24px;
+  color: #e6566e;
+  margin: 10px 5%;
+  width: 80%;
+}
+
+.girl_title {
+  font-size: 18px;
+  color: #e6566e;
+    margin: 10px 5%;
+      width: 100%;
+}
+
+.girl_title2 {
+  margin: 10px 5% 10px 5%;
+  width: 95%;
+}
+
+.table_main{
+  font-size: 12px;
+  margin: 15px auto 150px;
+  border: 1px solid #333;
+  padding:5px 5px;
+
+}
+
+.table_col{
+background-color:#f4bac4
+}
+
+th,td{
+  border: 1px solid #333;
+  text-align: center;
+  padding: 2px 2px;
+}
+
+td{
+  background-color: #f5f3f3
+}
+
+/*---------------------schedule--------------------- */
+
+.table_main2 {
+  font-size: 12px;
+  margin: 15px auto 15px;
+  border: 1px solid #333;
+  padding: 5px 5px;
+
+}
+
+/*---------------------menu--------------------- */
+
+.oil{
+margin: 25px auto 15px;
+width: 90%;
+
+}
+
+.oiltext{
+    margin: 10px 5% 10px 5%;
+      width: 90%;
+      color: rgb(113, 111, 111);
+}
+
+.course{
+      top: 0;
+      /*下に固定*/
+  
+      height: 24px;
+      font-size: 18px;
+      background: #e6566e;
+      font-weight: bold;
+      color: #fff;
+
+      text-align: left;
+        vertical-align: middle;
+
+        margin-top: 55px;
+}
+
+.menu{
+height: 105px;
+  background: #ffffff;
+  margin: 20px 5% 10px 5%;
+    width: 90%;
+    border: 2px solid;
+}
+
+.menu1{
+font-size: 30px;
+margin: 15px 5% 10px 5%;
+color: #e6566e;
+}
+.menu2 {
+  font-size: 30px;
+  margin: 15px;
+  margin-left: 45%;
+  color: #000000;
+}
+
+.menu3 {
+  font-size: 30px;
+  margin: 15px;
+  margin-left: 35%;
+  color: #000000;
+}
+
+.oiltext2 {
+  margin: 10px 5% 10px 5%;
+  margin-left: 15%;
+  width: 90%;
+  color: rgb(113, 111, 111);
+}

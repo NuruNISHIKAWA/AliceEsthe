@@ -10,4 +10,25 @@ class EstheticController extends Controller
     {
         return view('top');
     }
+
+public function list()
+    {
+        return view('list');
+    }
+
+    public function girl()
+    {
+        return view('girl');
+    }
+
+      public function schedule()
+    {
+        return view('schedule');
+    }
+
+          public function menu()
+    {
+        return view('menu');
+    }
+
 }
