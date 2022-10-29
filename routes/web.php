@@ -27,3 +27,9 @@ Route::get('/girl', [EstheticController::class, 'girl']);
 Route::get('/schedule', [EstheticController::class, 'schedule']);
 
 Route::get('/menu', [EstheticController::class, 'menu']);
+
+Route::get('/access', [EstheticController::class, 'access']);
+
+Route::get('/recruit', [EstheticController::class, 'recruit']);
+
+Route::get('/form', [EstheticController::class, 'form']);

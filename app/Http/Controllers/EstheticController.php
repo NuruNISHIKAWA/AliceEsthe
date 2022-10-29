@@ -31,4 +31,20 @@ public function list()
         return view('menu');
     }
 
+              public function access()
+    {
+        return view('access');
+    }
+
+              public function recruit()
+    {
+        return view('recruit');
+    }
+
+
+              public function form()
+    {
+        return view('form');
+    }
+
 }
