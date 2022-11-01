@@ -11,10 +11,31 @@
 <body>
 
 <header class="header">
-        <p class="htext">MENU</p>
+        <p class="htext">お得なイベント開催中！</p>
 </header>
 
-<div>
+<input type="checkbox" id="drawer">
+<label for="drawer" class="open"><span></span></label>
+<label for="drawer" class="close"></label>
+<nav class="menu">
+	<h2>menu</h2>
+	<ul>
+		<li>
+    <a href="list" >セラピスト一覧</a>
+
+  </li>
+		<li>
+    <a href="/schedule">本日のセラピスト</a>
+  </li>
+		<li> 
+    <a href="/menu">メニュー</a>
+  </li>
+		<li><a href="/menu">アクセス</a></li>
+		<li><a href="/recruit">セラピスト求人</a></li>
+	</ul>
+</nav>
+
+<div class=init>
     <div class="tophome">
             名古屋栄メンズエステ【nurunuru（ぬるぬる）】
         </div>
@@ -44,9 +65,12 @@
 <div class="space">
     <p class="common__ttl">Pickup Theraphist</p>
     <div class="flex__item">
+      <form  method="get" action="/girl" >
+        <input type=hidden name=id value="name">
       <a class="item" href="">
         <img src="img/IMG_1286.JPG" alt="">
 </a>
+</form>
 <a class="item" href="">
         <img src="img/IMG_1286.JPG" alt="">
 </a>
