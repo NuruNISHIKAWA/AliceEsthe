@@ -11,8 +11,31 @@
 <body>
 
 <header class="header">
-        <p class="htext">MENU</p>
+        <p class="htext">お得なイベント開催中！</p>
 </header>
+
+
+<input type="checkbox" id="drawer">
+<label for="drawer" class="open"><span></span></label>
+<label for="drawer" class="close"></label>
+<nav class="menu">
+	<h2>menu</h2>
+	<ul>
+		<li>
+    <a href="list" >セラピスト一覧</a>
+
+  </li>
+		<li>
+    <a href="/schedule">本日のセラピスト</a>
+  </li>
+		<li> 
+    <a href="/menu">メニュー</a>
+  </li>
+		<li><a href="/menu">アクセス</a></li>
+		<li><a href="/recruit">セラピスト求人</a></li>
+	</ul>
+</nav>
+
 
 <div>
     <div class="tophome">
@@ -48,8 +71,12 @@
         <div class="space">
     <p class="common__ttl">Theraphist List</p>
         <div class="grid_girl">
-          <img src="img/IMG_1286.JPG" alt="" class="grid_photo">
-          <p class="grid_detail ">
+            <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
+  @csrf
+<input type="hidden" name="name" value="ちーず" >
+<input type=image class="item2" src="img/IMG_1286.JPG" class="item2">
+</form>
+<p class="grid_detail ">
           ちーず<br>
           年齢:20歳<br>
           身長:158cm<br>
@@ -59,7 +86,11 @@
         </p>
         </div>
         <div class="grid_girl">
-          <img src="img/IMG_1286.JPG" alt="" class="grid_photo">
+                      <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
+  @csrf
+<input type="hidden" name="name" value="らむ" >
+<input type=image class="item2" src="img/IMG_1286.JPG" class="item2">
+</form>
           <p class="grid_detail ">
           らむ<br>
           年齢:20歳<br>
@@ -71,7 +102,11 @@
         </div>
 
         <div class="grid_girl">
-          <img src="img/IMG_1286.JPG" alt="" class="grid_photo">
+                     <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
+  @csrf
+<input type="hidden" name="name" value="ぐらん" >
+<input type=image class="item2" src="img/IMG_1286.JPG" class="item2">
+</form>
           <p class="grid_detail ">
           ぐらん<br>
           年齢:20歳<br>
@@ -83,7 +118,11 @@
         </div>
 
         <div class="grid_girl">
-          <img src="img/IMG_1286.JPG" alt="" class="grid_photo">
+                     <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
+  @csrf
+<input type="hidden" name="name" value="じじ" >
+<input type=image class="item2" src="img/IMG_1286.JPG" class="item2">
+</form>
           <p class="grid_detail ">
           じじ<br>
           年齢:20歳<br>
@@ -95,7 +134,11 @@
         </div>
 
         <div class="grid_girl">
-          <img src="img/IMG_1286.JPG" alt="" class="grid_photo">
+                     <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
+  @csrf
+<input type="hidden" name="name" value="なの" >
+<input type=image class="item2" src="img/IMG_1286.JPG" class="item2">
+</form>
           <p class="grid_detail ">
           なの<br>
           年齢:20歳<br>
@@ -107,7 +150,11 @@
         </div>
 
         <div class="grid_girl">
-          <img src="img/IMG_1286.JPG" alt="" class="grid_photo">
+                     <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
+  @csrf
+<input type="hidden" name="name" value="めあ" >
+<input type=image class="item2" src="img/IMG_1286.JPG" class="item2">
+</form>
           <p class="grid_detail ">
           めあ<br>
           年齢:20歳<br>

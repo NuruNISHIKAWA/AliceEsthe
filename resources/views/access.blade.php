@@ -14,6 +14,29 @@
         <p class="htext">MENU</p>
 </header>
 
+
+<input type="checkbox" id="drawer">
+<label for="drawer" class="open"><span></span></label>
+<label for="drawer" class="close"></label>
+<nav class="menu">
+	<h2>menu</h2>
+	<ul>
+		<li>
+    <a href="list" >セラピスト一覧</a>
+
+  </li>
+		<li>
+    <a href="/schedule">本日のセラピスト</a>
+  </li>
+		<li> 
+    <a href="/menu">メニュー</a>
+  </li>
+		<li><a href="/menu">アクセス</a></li>
+		<li><a href="/recruit">セラピスト求人</a></li>
+	</ul>
+</nav>
+
+
 <div>
     <div class="tophome">
             名古屋栄メンズエステ【nurunuru（ぬるぬる）】

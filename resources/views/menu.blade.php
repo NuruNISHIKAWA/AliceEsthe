@@ -11,8 +11,31 @@
 <body>
 
 <header class="header">
-        <p class="htext">MENU</p>
+        <p class="htext">お得なイベント開催中！</p>
 </header>
+
+
+<input type="checkbox" id="drawer">
+<label for="drawer" class="open"><span></span></label>
+<label for="drawer" class="close"></label>
+<nav class="menu">
+	<h2>menu</h2>
+	<ul>
+		<li>
+    <a href="list" >セラピスト一覧</a>
+
+  </li>
+		<li>
+    <a href="/schedule">本日のセラピスト</a>
+  </li>
+		<li> 
+    <a href="/menu">メニュー</a>
+  </li>
+		<li><a href="/menu">アクセス</a></li>
+		<li><a href="/recruit">セラピスト求人</a></li>
+	</ul>
+</nav>
+
 
 <div>
     <div class="tophome">
@@ -43,44 +66,44 @@
 
 <p class="course">マッサージコース</p>
 
-<div class="menu">
+<div class="menu0">
 <p class="menu1">ショート90分</p>
 <p class="menu2">18,000円</p>
 </div>
 
-<div class="menu">
+<div class="menu0">
 <p class="menu1">スタンダード 120分</p>
 <p class="menu2">22,000円</p>
 </div>
 
-<div class="menu">
+<div class="menu0">
 <p class="menu1">セミロング 150分</p>
 <p class="menu2">28,000円</p>
 </div>
 
-<div class="menu">
+<div class="menu0">
 <p class="menu1">ロング 180分</p>
 <p class="menu2">34,000円</p>
 </div>
 
 <p class="course">オプション</p>
-<div class="menu">
+<div class="menu0">
 <p class="menu1">ディープリンパ</p>
 <p class="menu3">10分 1000円</p>
 </div>
 
 <p class="course">その他料金</p>
-<div class="menu">
+<div class="menu0">
 <p class="menu1">入会金</p>
 <p class="menu2">2000円</p>
 </div>
 
-<div class="menu">
+<div class="menu0">
 <p class="menu1">セラピスト指名料</p>
 <p class="menu3">本指名2000円</p>
 </div>
 
-<div class="menu">
+<div class="menu0">
 <p class="menu1">延長30分</p>
 <p class="menu3">本指名7000円</p>
 </div>

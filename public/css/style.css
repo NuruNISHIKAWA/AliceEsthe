@@ -9,7 +9,7 @@ a {
  .header {
    top: 0;
    /*下に固定*/
-
+z-index: 1;
    height: 24px;
    font-size: 16px;
    background: #e6566e;
@@ -48,9 +48,9 @@ label {
 }
 
 .open {
-  z-index: 2;
+  z-index: 4;
   top: 10px;
-  right: 8px;
+  right: 18px;
   width: 48px;
   height: 48px;
   border-radius: 48px;
@@ -84,7 +84,7 @@ label {
 }
 
 .close {
-  z-index: 1;
+  z-index: 3;
   inset: 0;
   pointer-events: none;
   transition: background .6s;
@@ -114,7 +114,7 @@ label {
 
 /* :::::: drawer menu :::::: */
 .menu {
-  z-index: 1;
+  z-index: 2;
   position: fixed;
   overflow: auto;
   top: 0;
@@ -122,11 +122,16 @@ label {
   width: 280px;
   height: 20px;
   margin: 0;
-  padding: 10px;
+  padding: 20px;
+  height: 405px;
+    background: #ffffff;
+    margin: 20px 5% 10px 5%;
+    width: 90%;
+    border: 2px solid;
   box-sizing: border-box;
-  height: 100%;
+  /*height: 100%;*/
   
-  transform: translateX(100%);
+  transform: translateX(95%);
       transition: transform .6s cubic-bezier(0.215, 0.61, 0.355, 1);
 
 }
@@ -137,6 +142,8 @@ label {
   font-weight: 400;
   letter-spacing: .1em;
   text-align: center;
+  font-size: 30px;
+  margin: 0 auto 10px;
 }
 
 .menu ul {
@@ -146,6 +153,7 @@ label {
 
 .menu li {
   line-height: 1.4;
+  font-size: 20px;
 }
 
 .menu li:not(:first-child) {
@@ -311,6 +319,12 @@ color: red;
   display: block;
 }
 
+.item2 {
+  width: 100%;
+  position: relative;
+    display: block;
+}
+
 .space{
   margin-top: 25px;
 }
@@ -345,6 +359,14 @@ padding: 5px 0px 140px 0px;;
   top: 0;
   padding: 5px 20px;
   border-radius: 10px;
+}
+
+.todayitem2 {
+  position: absolute;
+  top: 0;
+  padding: 5px 20px;
+  border-radius: 10px;
+  width: 75%;
 }
 
 .todaytext{
@@ -508,7 +530,7 @@ width: 90%;
         margin-top: 55px;
 }
 
-.menu{
+.menu0{
 height: 105px;
   background: #ffffff;
   margin: 20px 5% 10px 5%;

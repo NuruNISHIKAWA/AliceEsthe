@@ -14,9 +14,12 @@ use App\Http\Controllers\EstheticController;
 |
 */
 
-Route::get('/', function () {
+Route::get('/session', [SessionController::class, 'getSes']);
+Route::post('/session', [SessionController::class, 'postSes']);
+
+/*Route::get('/', function () {
     return view('welcome');
-});
+});*/
 
 Route::get('/', [EstheticController::class, 'index']);
 
@@ -33,3 +36,6 @@ Route::get('/access', [EstheticController::class, 'access']);
 Route::get('/recruit', [EstheticController::class, 'recruit']);
 
 Route::get('/form', [EstheticController::class, 'form']);
+
+
+Route::post('/girl', [EstheticController::class, 'theraphist']);

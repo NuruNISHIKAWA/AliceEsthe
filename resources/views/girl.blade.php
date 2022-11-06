@@ -11,8 +11,32 @@
 <body>
 
 <header class="header">
-        <p class="htext">MENU</p>
+        <p class="htext">お得なイベント開催中！</p>
 </header>
+
+
+<input type="checkbox" id="drawer">
+<label for="drawer" class="open"><span></span></label>
+<label for="drawer" class="close"></label>
+<nav class="menu">
+	<h2>menu</h2>
+	<ul>
+		<li>
+    <a href="list" >セラピスト一覧</a>
+
+  </li>
+		<li>
+    <a href="/schedule">本日のセラピスト</a>
+  </li>
+		<li> 
+    <a href="/menu">メニュー</a>
+  </li>
+		<li><a href="/menu">アクセス</a></li>
+		<li><a href="/recruit">セラピスト求人</a></li>
+	</ul>
+</nav>
+
+
 
 <div>
     <div class="tophome">
@@ -33,9 +57,7 @@
     <div class="topgirl">
             <img src="img/IMG_1286.JPG" alt="">
         </div>
-      
-
-  <h1 class="name">ちーず（20歳）</h1>
+  <h1 class="name">{{$form['name']}}（20歳）</h1>
   <h2 class="girl_title ">身長</h2>
   <p class="girl_title2">158cm</p>
     <h2 class="girl_title ">血液型</h2>
