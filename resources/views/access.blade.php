@@ -50,12 +50,12 @@
 </nav>
 
 
-<div>
+<div　class=”brr”>
     <div class="tophome">
             名古屋栄メンズエステ【nurunuru（ぬるぬる）】
         </div>
         <div>
-            <img src="img/IMG_1287.PNG" alt="">
+            <img src="img/IMG_1617.JPG" alt="">
         </div>
         <p class="home">
           貴方と私の二人だけの時間<br><br>
