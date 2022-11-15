@@ -52,7 +52,7 @@
             名古屋栄メンズエステ【nurunuru（ぬるぬる）】
         </div>
         <div>
-            <img src="img/IMG_1617.JPG" alt="">
+            <img src="img/IMG_1619.JPG" alt="">
         </div>
         <p class="home">
           貴方と私の二人だけの時間<br><br>
@@ -81,20 +81,20 @@
   <form class="item" method="post" action="/girl" enctype="multipart/form-data"> 
   @csrf
 <input type="hidden" name="name" value="ちーず" >
-<input type=image class="item2" src="img/IMG_1588.PNG" class="item2">
+<input type=image class="item2" src="img/IMG_1618.JPG" class="item2">
 </form>
 
   <form class="item" method="post" action="/girl" enctype="multipart/form-data"> 
   @csrf
 <input type="hidden" name="name" value="らむ" >
-<input type=image class="item2" src="img/IMG_1588.PNG" class="item2">
+<input type=image class="item2" src="img/IMG_1618.JPG" class="item2">
 </form>
 
 
   <form class="item" method="post" action="/girl" enctype="multipart/form-data"> 
   @csrf
 <input type="hidden" name="name" value="めあ" >
-<input type=image class="item2" src="img/IMG_1588.PNG" class="item2">
+<input type=image class="item2" src="img/IMG_1618.JPG" class="item2">
 </form>
 
 </div>
@@ -103,19 +103,19 @@
   <form class="item" method="post" action="/girl" enctype="multipart/form-data"> 
   @csrf
 <input type="hidden" name="name" value="なの" >
-<input type=image class="item2" src="img/IMG_1588.PNG" class="item2">
+<input type=image class="item2" src="img/IMG_1618.JPG" class="item2">
 </form>
 
   <form class="item" method="post" action="/girl" enctype="multipart/form-data"> 
   @csrf
 <input type="hidden" name="name" value="ぐらん" >
-<input type=image class="item2" src="img/IMG_1588.PNG" class="item2">
+<input type=image class="item2" src="img/IMG_1618.JPG" class="item2">
 </form>
 
   <form class="item" method="post" action="/girl" enctype="multipart/form-data"> 
   @csrf
 <input type="hidden" name="name" value="じじ" >
-<input type=image class="item2" src="img/IMG_1588.PNG" class="item2">
+<input type=image class="item2" src="img/IMG_1618.JPG" class="item2">
 </form>
 </div>
 
@@ -145,7 +145,7 @@
 <form method="post" action="/girl" enctype="multipart/form-data">
   @csrf 
 <input type="hidden" name="name" value="ちーず" >
-<input type=image src="img/IMG_1588.PNG" class="todayitem2">
+<input type=image src="img/IMG_1618.JPG" class="todayitem2">
 </form>
 <h2 class="todaytext">ちーず</h3>
 <h2 class="todaytext2">12:00〜21:00</h3>
@@ -155,7 +155,7 @@
 <form method="post" action="/girl" enctype="multipart/form-data">
   @csrf 
 <input type="hidden" name="name" value="じじ" >
-<input type=image src="img/IMG_1588.PNG" class="todayitem2">
+<input type=image src="img/IMG_1618.JPG" class="todayitem2">
 </form>
 <h2 class="todaytext">じじ</h3>
 <h2 class="todaytext2">12:00〜21:00</h3>
@@ -167,7 +167,7 @@
 <form method="post" action="/girl" enctype="multipart/form-data">
   @csrf 
 <input type="hidden" name="name" value="ぐらん" >
-<input type=image src="img/IMG_1588.PNG" class="todayitem2">
+<input type=image src="img/IMG_1618.JPG" class="todayitem2">
 </form>
 <h2 class="todaytext">ぐらん</h3>
 <h2 class="todaytext2">12:00〜21:00</h3>
@@ -177,7 +177,7 @@
 <form method="post" action="/girl" enctype="multipart/form-data">
   @csrf 
 <input type="hidden" name="name" value="らむ" >
-<input type=image src="img/IMG_1588.PNG" class="todayitem2">
+<input type=image src="img/IMG_1618.JPG" class="todayitem2">
 </form>
 <h2 class="todaytext">らむ</h3>
 <h2 class="todaytext2">12:00〜21:00</h3>
@@ -189,7 +189,7 @@
 <form method="post" action="/girl" enctype="multipart/form-data">
   @csrf 
 <input type="hidden" name="name" value="なの" >
-<input type=image src="img/IMG_1588.PNG" class="todayitem2">
+<input type=image src="img/IMG_1618.JPG" class="todayitem2">
 </form>
 <h2 class="todaytext">なの</h3>
 <h2 class="todaytext2">12:00〜21:00</h3>
