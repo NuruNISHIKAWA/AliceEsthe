@@ -134,66 +134,6 @@
 
 
 
- 
-<div class="flex__item">
-
-  
-<div class="today">
-<form method="post" action="/girl" enctype="multipart/form-data">
-  @csrf 
-<input type="hidden" name="name" value="ちーず" >
-<input type=image src="img/IMG_1618.JPG" class="todayitem2">
-</form>
-<h2 class="todaytext">ちーず</h3>
-<h2 class="todaytext2">12:00〜21:00</h3>
-</div>
-
-<div class="today">
-<form method="post" action="/girl" enctype="multipart/form-data">
-  @csrf 
-<input type="hidden" name="name" value="じじ" >
-<input type=image src="img/IMG_1618.JPG" class="todayitem2">
-</form>
-<h2 class="todaytext">じじ</h3>
-<h2 class="todaytext2">12:00〜21:00</h3>
-</div>
-</div>
-
-<div class="flex__item">
-      <div class="today">
-<form method="post" action="/girl" enctype="multipart/form-data">
-  @csrf 
-<input type="hidden" name="name" value="ぐらん" >
-<input type=image src="img/IMG_1618.JPG" class="todayitem2">
-</form>
-<h2 class="todaytext">ぐらん</h3>
-<h2 class="todaytext2">12:00〜21:00</h3>
-</div>
-
-<div class="today">
-<form method="post" action="/girl" enctype="multipart/form-data">
-  @csrf 
-<input type="hidden" name="name" value="らむ" >
-<input type=image src="img/IMG_1618.JPG" class="todayitem2">
-</form>
-<h2 class="todaytext">らむ</h3>
-<h2 class="todaytext2">12:00〜21:00</h3>
-</div>
-</div>
-
-<div class="flex__item">
-      <div class="today">
-<form method="post" action="/girl" enctype="multipart/form-data">
-  @csrf 
-<input type="hidden" name="name" value="なの" >
-<input type=image src="img/IMG_1618.JPG" class="todayitem2">
-</form>
-<h2 class="todaytext">なの</h3>
-<h2 class="todaytext2">12:00〜21:00</h3>
-</div>
-
-</div>
-
 </div>
 
 <div id="back2">

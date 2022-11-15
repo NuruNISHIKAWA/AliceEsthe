@@ -55,10 +55,6 @@
         <div>
             <img src="img/IMG_1617.JPG" alt="">
         </div>
-        <p class="home">
-          貴方と私の二人だけの時間<br><br>
-          ようこそ楽園へ
-        </p>
         <div class="line">
       </div>
 </div>

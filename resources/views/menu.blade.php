@@ -57,10 +57,6 @@
         <div>
             <img src="img/IMG_1617.JPG" alt="">
         </div>
-        <p class="home">
-          貴方と私の二人だけの時間<br><br>
-          ようこそ楽園へ
-        </p>
         <div class="line">
       </div>
 </div>
@@ -80,45 +76,56 @@
 <p class="course">マッサージコース</p>
 
 <div class="menu0">
-<p class="menu1">ショート90分</p>
+<p class="menu1">ショート60分</p>
+<p class="menu2">14,000円</p>
+</div>
+
+<div class="menu0">
+<p class="menu1">ショート75分</p>
+<p class="menu2">15,000円</p>
+</div>
+
+<div class="menu0">
+<p class="menu1">スタンダード90分</p>
 <p class="menu2">18,000円</p>
 </div>
 
 <div class="menu0">
-<p class="menu1">スタンダード 120分</p>
-<p class="menu2">22,000円</p>
+<p class="menu1">セミロング 120分</p>
+<p class="menu2">24,000円</p>
 </div>
 
 <div class="menu0">
-<p class="menu1">セミロング 150分</p>
-<p class="menu2">28,000円</p>
-</div>
-
-<div class="menu0">
-<p class="menu1">ロング 180分</p>
-<p class="menu2">34,000円</p>
+<p class="menu1">ロング 150分</p>
+<p class="menu2">30,000円</p>
 </div>
 
 <p class="course">オプション</p>
 <div class="menu0">
-<p class="menu1">ディープリンパ</p>
-<p class="menu3">10分 1000円</p>
+<p class="menu1">オプション</p>
+<p class="menu3">1000円〜</p>
 </div>
 
 <p class="course">その他料金</p>
 <div class="menu0">
 <p class="menu1">入会金</p>
-<p class="menu2">2000円</p>
+<p class="menu3">0円</p>
 </div>
 
 <div class="menu0">
-<p class="menu1">セラピスト指名料</p>
-<p class="menu3">本指名2000円</p>
+<p class="menu1">初回指名料</p>
+<p class="menu3">0円</p>
+</div>
+
+
+<div class="menu0">
+<p class="menu1">2回目本指名料</p>
+<p class="menu3">2000円</p>
 </div>
 
 <div class="menu0">
 <p class="menu1">延長30分</p>
-<p class="menu3">本指名7000円</p>
+<p class="menu3">本指名8000円</p>
 </div>
 
 <p class="course">ご利用にあたっての注意事項</p>

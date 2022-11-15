@@ -56,18 +56,13 @@
         <div>
             <img src="img/IMG_1617.JPG" alt="">
         </div>
-        <p class="home">
-          貴方と私の二人だけの時間<br><br>
-          ようこそ楽園へ
-        </p>
+  
         <div class="line">
       </div>
 </div>
 
   <div id="back">
-    <div class="listgirl">
-            <img src="img/IMG_1304.PNG" alt="">
-        </div>
+
 
         <p class="messe">
           セラピストの個性<br>
