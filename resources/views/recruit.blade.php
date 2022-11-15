@@ -94,6 +94,64 @@ Wi-Fiも備えております。</br>
 <ul>
 </div>
 
+
+<div>
+<p class="reqtext5">
+          給与
+        </p>
+        </div>
+
+          <table class="table_kyu">
+        <tr class="table_kyu2">
+          <th rowspan="6" class="table_kyu2">店舗アマン</th>
+            <th>時間</th>
+            <th class="table_kyu2">基本給</th>
+            <th>女子給B</th>
+            <th>女子給A</th>
+            <th>女子給S</th>
+        </tr>
+        <tr>
+           
+            <td>60分</td>
+            <td>6000円</td>
+            <td>7000円</td>
+            <td>8000円</td>
+            <td>9000円</td>
+        </tr>
+      <tr>       
+            <td>75分</td>
+            <td>7000円</td>
+            <td>8000円</td>
+            <td>9000円</td>
+            <td>10000円</td>
+        </tr>
+              <tr>       
+            <td>90分</td>
+            <td>8000円</td>
+            <td>9000円</td>
+            <td>10000円</td>
+            <td>11000円</td>
+        </tr>
+                      <tr>       
+            <td>120分</td>
+            <td>11000円</td>
+            <td>12000円</td>
+            <td>13000円</td>
+            <td>14000円</td>
+        </tr>
+ <tr>       
+            <td>150分</td>
+            <td>14000円</td>
+            <td>15000円</td>
+            <td>16000円</td>
+            <td>17000円</td>
+        </tr>
+    </table>
+
+
+
+
+
 <div>
 <p class="reqtext5">
           給与シミュレーション

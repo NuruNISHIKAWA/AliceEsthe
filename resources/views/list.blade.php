@@ -14,6 +14,18 @@
         <p class="htext">お得なイベント開催中！</p>
 </header>
 
+<div class="fixfooter">
+<div class="foot-btn">
+        <p class="tell-btm">
+          <span class="tell-btm2">受付時間24時間</span>
+          </br>今すぐ電話予約</p>
+
+        <p class="rec-btm">セラピスト求人は</br>
+      こちらをクリック</p>
+
+</div>
+</div>
+
 
 <input type="checkbox" id="drawer">
 <label for="drawer" class="open"><span></span></label>
@@ -22,7 +34,7 @@
 	<h2>menu</h2>
 	<ul>
 		<li>
-    <a href="list" >セラピスト一覧</a>
+    <a href="/" >トップページ</a>
 
   </li>
 		<li>
@@ -31,7 +43,7 @@
 		<li> 
     <a href="/menu">メニュー</a>
   </li>
-		<li><a href="/menu">アクセス</a></li>
+		<li><a href="/access">アクセス</a></li>
 		<li><a href="/recruit">セラピスト求人</a></li>
 	</ul>
 </nav>
@@ -74,7 +86,7 @@
             <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
   @csrf
 <input type="hidden" name="name" value="ちーず" >
-<input type=image class="item2" src="img/IMG_1286.JPG" class="item2">
+<input type=image class="item2" src="img/IMG_1588.PNG" class="item2">
 </form>
 <p class="grid_detail ">
           ちーず<br>
@@ -89,7 +101,7 @@
                       <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
   @csrf
 <input type="hidden" name="name" value="らむ" >
-<input type=image class="item2" src="img/IMG_1286.JPG" class="item2">
+<input type=image class="item2" src="img/IMG_1588.PNG" class="item2">
 </form>
           <p class="grid_detail ">
           らむ<br>
@@ -105,7 +117,7 @@
                      <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
   @csrf
 <input type="hidden" name="name" value="ぐらん" >
-<input type=image class="item2" src="img/IMG_1286.JPG" class="item2">
+<input type=image class="item2" src="img/IMG_1588.PNG" class="item2">
 </form>
           <p class="grid_detail ">
           ぐらん<br>
@@ -121,7 +133,7 @@
                      <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
   @csrf
 <input type="hidden" name="name" value="じじ" >
-<input type=image class="item2" src="img/IMG_1286.JPG" class="item2">
+<input type=image class="item2" src="img/IMG_1588.PNG" class="item2">
 </form>
           <p class="grid_detail ">
           じじ<br>
@@ -137,7 +149,7 @@
                      <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
   @csrf
 <input type="hidden" name="name" value="なの" >
-<input type=image class="item2" src="img/IMG_1286.JPG" class="item2">
+<input type=image class="item2" src="img/IMG_1588.PNG" class="item2">
 </form>
           <p class="grid_detail ">
           なの<br>
@@ -153,7 +165,7 @@
                      <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
   @csrf
 <input type="hidden" name="name" value="めあ" >
-<input type=image class="item2" src="img/IMG_1286.JPG" class="item2">
+<input type=image class="item2" src="img/IMG_1588.PNG" class="item2">
 </form>
           <p class="grid_detail ">
           めあ<br>
