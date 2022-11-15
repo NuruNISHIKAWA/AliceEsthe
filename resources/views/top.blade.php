@@ -11,7 +11,9 @@
 <body>
 
 <header class="header">
-        <p class="htext">お得なイベント開催中！</p>
+        <div class="hearrr">
+            <img src="img/IMG_1616.JPG" alt="">
+        </div>
 </header>
 
 <div class="fixfooter">
@@ -52,7 +54,7 @@
             名古屋栄メンズエステ【nurunuru（ぬるぬる）】
         </div>
         <div>
-            <img src="img/IMG_1619.JPG" alt="">
+            <img src="img/IMG_1620.JPG" alt="">
         </div>
         <p class="home">
           貴方と私の二人だけの時間<br><br>
