@@ -45,14 +45,13 @@
   </li>
 
 		<li><a href="/access">アクセス</a></li>
-		<li><a href="/recruit">セラピスト求人</a></li>
 	</ul>
 </nav>
 
 
 <div>
     <div class="tophome">
-            名古屋栄メンズエステ【nurunuru（ぬるぬる）】
+            名古屋栄メンズエステ【Aman（アマン）】
         </div>
         <div>
             <img src="img/IMG_1617.JPG" alt="">
@@ -67,36 +66,32 @@
             <img src="img/IMG_1307.JPG" alt="">
         </div>
 
-        <p class="oiltext">当店は全て天然オイル配合のノンオイルの無香料マッサージリキッドを使用しております。</br>
-水だけで簡単に流れ落ちます。</br>
-</br>
-パウダー（無香料）も無料でお選びいただけます。
-シャンプー、ボディーソープも無香料をご用意しております。</br></p>
+        
 
 <p class="course">マッサージコース</p>
 
 <div class="menu0">
-<p class="menu1">ショート60分</p>
+<p class="menu1">60分</p>
 <p class="menu2">14,000円</p>
 </div>
 
 <div class="menu0">
-<p class="menu1">ショート75分</p>
+<p class="menu1">75分</p>
 <p class="menu2">15,000円</p>
 </div>
 
 <div class="menu0">
-<p class="menu1">スタンダード90分</p>
+<p class="menu1">90分</p>
 <p class="menu2">18,000円</p>
 </div>
 
 <div class="menu0">
-<p class="menu1">セミロング 120分</p>
+<p class="menu1">120分</p>
 <p class="menu2">24,000円</p>
 </div>
 
 <div class="menu0">
-<p class="menu1">ロング 150分</p>
+<p class="menu1">150分</p>
 <p class="menu2">30,000円</p>
 </div>
 
@@ -130,7 +125,7 @@
 
 <p class="course">ご利用にあたっての注意事項</p>
 
-<p class="oiltext">nurunuruでは、施術方法や接遇はセラピストによって異なります。</br>
+<p class="oiltext">Amanでは、施術方法や接遇はセラピストによって異なります。</br>
 お客様に喜んで頂く為に、厳選したセラピストを採用しておりますが、</br>
 どうしてもお客様に合う子も居れば、合わない子もいるかもしれません。</br>
 是非、お客様のお気に入りのセラピスト見つけて下さい。</br></br>
@@ -196,5 +191,5 @@
 </div>
 
 <footer class="footer">
-        <p>Copyright © 名古屋栄メンズエステ【nurunuru（ぬるぬる）】 All Rights Reserved.</p>
+        <p>Copyright © 名古屋栄メンズエステ【aman（アマン）】 All Rights Reserved.</p>
     </footer>

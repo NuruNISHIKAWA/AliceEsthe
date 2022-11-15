@@ -44,15 +44,13 @@
 		<li> 
     <a href="/menu">メニュー</a>
   </li>
-
-		<li><a href="/recruit">セラピスト求人</a></li>
 	</ul>
 </nav>
 
 
 <div　class=”brr”>
     <div class="tophome">
-            名古屋栄メンズエステ【nurunuru（ぬるぬる）】
+            名古屋栄メンズエステ【Aman（アマン）】
         </div>
         <div>
             <img src="img/IMG_1617.JPG" alt="">
@@ -64,19 +62,12 @@
   <div id="back">
 
         <div>
-          <h2 class="access_text">メンズエステnurunuru</h2>
+          <h2 class="access_text">Aman 栄店</h2>
           	<div>
               <hr size="1">
             </div>
-          <h3 class="access_text2">最寄り駅　大須観音駅から徒歩10分</h3>
-          <div>
-              <hr size="1">
-            </div>
-          <h3 class="access_text2">目印　おこりんぼうパスタ</h3>
-          <div>
-              <hr size="1">
-            </div>
-          <h3 class="access_text2">愛知県名古屋市中区大須 2-27-34</h3>
+
+          <h3 class="access_text2">名古屋市中区千代田2丁目</h3>
           <div>
               <hr size="1">
             </div>
@@ -86,10 +77,33 @@
         </div>
         --->
 
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6523.858362199384!2d136.89135445390627!3d35.15838690000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6003773396a32dff%3A0x3dba097631205e4!2z44Kz44Oz44K744OX44OI44Kr44OV44KnIGNhbmNhbg!5e0!3m2!1sja!2sjp!4v1667007246947!5m2!1sja!2sjp" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3261.9531507700362!2d136.9107080511804!3d35.15778913022305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600370b81cee6f61%3A0x86f8bd1415ccf102!2z44CSNDYwLTAwMTIg5oSb55-l55yM5ZCN5Y-k5bGL5biC5Lit5Yy65Y2D5Luj55Sw77yS5LiB55uu!5e0!3m2!1sja!2sjp!4v1668531324788!5m2!1sja!2sjp" width="100%" height="300"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
         </div>
+
+ <div>
+          <h2 class="access_text">Aman 名駅店</h2>
+          	<div>
+              <hr size="1">
+            </div>
+
+          <h3 class="access_text2">名古屋市西区名駅2丁目</h3>
+          <div>
+              <hr size="1">
+            </div>
+            <!---
+          <div class="access_pg">
+            <img src="img/facde729f593e4243051e97d5fe5d72d_7e4a4cfeea4281b93d54eea3783b3a20.jpg" alt="">
+        </div>
+        --->
+
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3261.2044264282!2d136.88054995118085!3d35.17645708021845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600376e9fa6ed565%3A0x2d318207398245f!2z44CSNDUxLTAwNDUg5oSb55-l55yM5ZCN5Y-k5bGL5biC6KW_5Yy65ZCN6aeF77yS5LiB55uu!5e0!3m2!1sja!2sjp!4v1668531218520!5m2!1sja!2sjp" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+        </div>
+
+
+
 </div>
 <footer class="footer">
-        <p>Copyright © 名古屋栄メンズエステ【nurunuru（ぬるぬる）】 All Rights Reserved.</p>
+        <p>Copyright © 名古屋栄メンズエステ【aman（アマン）】 All Rights Reserved.</p>
     </footer>

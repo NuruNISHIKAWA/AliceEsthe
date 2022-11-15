@@ -16,12 +16,18 @@
 
 <div class="fixfooter">
 <div class="foot-btn">
+
+    <a href="tel:000-4590-2442"  class=”nurnur”>
+  
         <p class="tell-btm">
+
           <span class="tell-btm2">受付時間24時間</span>
           </br>今すぐ電話予約</p>
+          </a>
 
         <p class="rec-btm">セラピスト求人は</br>
       こちらをクリック</p>
+
 
 </div>
 </div>
@@ -49,11 +55,19 @@
 
 <div class=”brrr”>
     <div class="tophome">
-            名古屋栄メンズエステ【nurunuru（ぬるぬる）】
+            名古屋栄メンズエステ【Aman（アマン）】
         </div>
         <div>
             <img src="img/IMG_1621.JPG" alt="">
         </div>
+    
+
+
+
+    <a href="tel:000-4590-2442"  class=”nurnur”>
+            <img src="img/IMG_1626.JPG" alt="">
+</a>
+
         <!---
         <p class="home">
           貴方と私の二人だけの時間<br><br>
@@ -72,7 +86,7 @@
     <div>
     <p class="common__ttl">Twitter</p>
     <div class="tweet">
-    <a class="twitter-timeline" href="https://twitter.com/cancan_2022?ref_src=twsrc%5Etfw" data-width="100%" data-tweet-limit="1" data-chrome="noheader">Tweets by cancan_2022</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <a class="twitter-timeline" href="https://twitter.com/Aman_esute_mens?ref_src=twsrc%5Etfw" data-width="100%" data-tweet-limit="2" data-chrome="noheader">Tweets by AMAN</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 <div class="space">
@@ -157,7 +171,7 @@
 </div>
 
 <footer class="footer">
-        <p>Copyright © 名古屋栄メンズエステ【nurunuru（ぬるぬる）】 All Rights Reserved.</p>
+        <p>Copyright © 名古屋栄メンズエステ【Aman（アマン）】 All Rights Reserved.</p>
     </footer>
 
 

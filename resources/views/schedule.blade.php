@@ -43,14 +43,13 @@
     <a href="/menu">メニュー</a>
   </li>
 		<li><a href="/access">アクセス</a></li>
-		<li><a href="/recruit">セラピスト求人</a></li>
 	</ul>
 </nav>
 
 
 <div>
     <div class="tophome">
-            名古屋栄メンズエステ【nurunuru（ぬるぬる）】
+            名古屋栄メンズエステ【Aman（アマン）】
         </div>
         <div>
             <img src="img/IMG_1617.JPG" alt="">
@@ -74,82 +73,15 @@
 
     <div class="space">
 
-    <div class="flex__item">
-      <div class="today">
-      <a class="todayitem" href="">
-                             <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
-  @csrf
-<input type="hidden" name="name" value="ちーず" >
-<input type=image class="item2" src="img/IMG_1588.PNG" class="todayitem">
-</form>
-</a>
-<h2 class="todaytext">ちーず</h3>
-<h2 class="todaytext2">12:00〜21:00</h3>
-</div>
-
-<div class="today">
-      <a class="todayitem" href="">
-                             <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
-  @csrf
-<input type="hidden" name="name" value="じじ" >
-<input type=image class="item2" src="img/IMG_1588.PNG" class="todayitem">
-</form>
-</a>
-<h2 class="todaytext">じじ</h3>
-<h2 class="todaytext2">12:00〜21:00</h3>
-</div>
-
-
-</div>
-
-<div class="flex__item">
-
-<div class="today">
-      <a class="todayitem" href="">
-                             <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
-  @csrf
-<input type="hidden" name="name" value="ぐらん" >
-<input type=image class="item2" src="img/IMG_1588.PNG" class="todayitem">
-</form>
-</a>
-<h2 class="todaytext">ぐらん</h3>
-<h2 class="todaytext2">12:00〜21:00</h3>
-</div>
-
-<div class="today">
-      <a class="todayitem" href="">
-                             <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
-  @csrf
-<input type="hidden" name="name" value="らむ" >
-<input type=image class="item2" src="img/IMG_1588.PNG" class="todayitem">
-</form>
-</a>
-<h2 class="todaytext">らむ</h3>
-<h2 class="todaytext2">12:00〜21:00</h3>
-</div>
-
-
-</div>
-
-<div class="flex__item">
-      <div class="today">
-              <a class="todayitem" href="">
-                             <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
-  @csrf
-<input type="hidden" name="name" value="なの" >
-<input type=image class="item2" src="img/IMG_1588.PNG" class="todayitem">
-</form>
-</a>
-<h2 class="todaytext">なの</h3>
-<h2 class="todaytext2">12:00〜21:00</h3>
+   
 </div>
 
 </div>
 
 </div>
 
-</div>
+
 
 <footer class="footer">
-        <p>Copyright © 名古屋栄メンズエステ【nurunuru（ぬるぬる）】 All Rights Reserved.</p>
+        <p>Copyright © 名古屋栄メンズエステ【Aman（アマン）】 All Rights Reserved.</p>
     </footer>

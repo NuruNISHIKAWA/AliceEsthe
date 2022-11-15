@@ -44,14 +44,13 @@
     <a href="/menu">メニュー</a>
   </li>
 		<li><a href="/access">アクセス</a></li>
-		<li><a href="/recruit">セラピスト求人</a></li>
 	</ul>
 </nav>
 
 
 <div>
     <div class="tophome">
-            名古屋栄メンズエステ【nurunuru（ぬるぬる）】
+            名古屋栄メンズエステ【Aman（アマン）】
         </div>
         <div>
             <img src="img/IMG_1617.JPG" alt="">
