@@ -17,7 +17,7 @@
 <div class="fixfooter">
 <div class="foot-btn">
 
-    <a href="tel:090-4590-2442"  class=”nurnur”>
+    <a href="tel:080-4590-2442"  class=”nurnur”>
   
         <p class="tell-btm">
 
@@ -64,7 +64,7 @@
 
 
 
-    <a href="tel:090-4590-2442"  class=”nurnur”>
+    <a href="tel:080-4590-2442"  class=”nurnur”>
             <img src="img/IMG_1626.JPG" alt="">
 </a>
 
