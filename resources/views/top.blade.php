@@ -56,6 +56,7 @@
         <div>
             <img src="img/IMG_1620.JPG" alt="">
         </div>
+        <!---
         <p class="home">
           貴方と私の二人だけの時間<br><br>
           ようこそ楽園へ
@@ -63,6 +64,7 @@
         <div class="topgirl">
             <img src="img/IMG_1286.JPG" alt="">
         </div>
+        --->
 </div>
 
 <div class="line">
