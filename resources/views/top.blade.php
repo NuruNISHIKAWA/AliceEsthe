@@ -49,7 +49,6 @@
     <a href="/menu">メニュー</a>
   </li>
 		<li><a href="/access">アクセス</a></li>
-		<li><a href="/recruit">セラピスト求人</a></li>
 	</ul>
 </nav>
 
