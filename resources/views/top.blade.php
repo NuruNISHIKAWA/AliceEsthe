@@ -11,9 +11,7 @@
 <body>
 
 <header class="header">
-        <div class="hearrr">
-            <img src="img/IMG_1616.JPG" alt="">
-        </div>
+        <p class="htext">お得なイベント開催中</p>
 </header>
 
 <div class="fixfooter">
@@ -54,7 +52,7 @@
             名古屋栄メンズエステ【nurunuru（ぬるぬる）】
         </div>
         <div>
-            <img src="img/IMG_1620.JPG" alt="">
+            <img src="img/IMG_1621.JPG" alt="">
         </div>
         <!---
         <p class="home">
@@ -126,12 +124,7 @@
 </div>
     </div>
 
-    <div class="space">
-      <p class="common__ttl">Event Information</p>
-      <a class="topgirl2" href="">
-        <img src="img/IMG_1291.PNG" alt="">
-</a>
-</div>
+
 
 
 
@@ -205,30 +198,20 @@
 
 <div id="back2">
 <div class="space">
-      <p class="common__ttl">New Theraphist</p>
+      <p class="common__ttl">Price</p>
       <a class="topgirl2" href="">
-        <img src="img/IMG_1292.PNG" alt="">
-</a>
-<a class="topgirl2" href="">
-        <img src="img/IMG_1292.PNG" alt="">
+        <img src="img/IMG_1622.JPG" alt="">
 </a>
 </div>
 
 <div class="space">
       <p class="common__ttl">News</p>
       <a class="topgirl2" href="">
-        <img src="img/IMG_1293.PNG" alt="">
+        <img src="img/IMG_1616.JPG" alt="">
 </a>
 
 </div>
 
-<div class="space">
-      <p class="common__ttl">Link</p>
-      <a class="topgirl2" href="">
-        <img src="img/IMG_1294.PNG" alt="">
-</a>
-
-</div>
 
 </div>
 </div>

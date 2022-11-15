@@ -17,7 +17,6 @@ z-index: 1;
    color: #fff;
    position: fixed;
    width: 100%;
-   height: 90px;
   display: flex;
     justify-content: space-between;
  }
@@ -461,7 +460,7 @@ padding: 5px 0px 140px 0px;;
 .line{
   
   padding: 2px;
-  margin-top: 30px;
+  margin-top: 0px;
   background: #e95d50;
   /*背景色*/
 }
@@ -1044,6 +1043,7 @@ margin-left: 10%;
 
 .brrr{
   background-color: #f7778c;
+  margin: 10px auto;
 }
 
 .hearrr{
