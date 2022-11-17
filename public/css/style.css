@@ -71,7 +71,7 @@ text-align: center;
 .rec-btm {
   border-radius: 6px;
   margin: 10px auto 0px;
-  margin: 10px 18px 0px 2px;
+  margin: 10px 18px 0px -5px;
   padding-top: 5px;
   padding-bottom: 5px;
   width: 180px;
