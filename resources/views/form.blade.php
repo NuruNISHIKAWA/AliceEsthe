@@ -59,8 +59,17 @@
 </div>
 
 <p class="form-item-label2">現在求人問い合わせは準備中です。<br>
-お問い合わせ頂いても対応出来ません。<br>
-しばらくお待ちください。</p>
+しばらくお待ちください。<br>
+お問い合わせの場合はお電話にて承っております。</p>
+
+<div class="br3">
+        <div class=”brrr3”>
+    <a href="tel:080-4590-2442" class=”brrr3”>
+<div class="brrr3">
+      <img src="img/IMG_1626.JPG" alt="" class=”brrr3”>
+      </div>
+</a>
+</div>
 
 <form class="form" name="contact" method="POST">
   <div>
