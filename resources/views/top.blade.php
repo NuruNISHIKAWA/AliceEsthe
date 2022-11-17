@@ -29,8 +29,9 @@
           </a>
           
 <div class="rec-btm2">
+  <a href="/form">
         <p class="rec-btm">セラピスト求人は</br>
-      こちらをクリック</p></div>
+      こちらをクリック</p></a></div>
 
 </div>
 </div>

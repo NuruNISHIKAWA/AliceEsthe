@@ -10,22 +10,57 @@
 </head>
 <body>
 
+<div id="mobileback2">
+<div class="pc">
+
 <header class="header2">
-        <p class="htext">MENU</p>
-        <div class="mpg">
-            <img src="img/IMG_1323.PNG" alt="">
-        </div>
-        <div class="mpg2">
-            <img src="img/IMG_1325.PNG" alt="">
-        </div>
+        <p class="htext">求人問い合わせ</p>
+        
+     
 </header>
 
-<div>
+<input type="checkbox" id="drawer">
+<label for="drawer" class="open"><span></span></label>
+<label for="drawer" class="close"></label>
+<nav class="menu">
+	<h2>menu</h2>
+	<ul>
 
-        <div>
-            <img src="img/IMG_1328.JPG" alt="">
+  		<li>
+    <a href="/">トップページ</a>
+  </li>
+		<li>
+    <a href="list" >セラピスト一覧</a>
+
+  </li>
+		<li>
+    <a href="/schedule">本日のセラピスト</a>
+  </li>
+		<li> 
+    <a href="/menu">メニュー</a>
+  </li>
+		<li><a href="/access">アクセス</a></li>
+	</ul>
+</nav>
+
+<div class=”brr”>
+    
+        <div class="br2">
+            <img src="img/IMG_1656.JPG" alt="">
         </div>
+
+        <p class="form-item-label2">料金•給料詳細</p>
+
+         <div class="br2">
+            <img src="img/スクリーンショット.png" alt="">
+        </div>
+        <div class="line">
+      </div>
 </div>
+
+<p class="form-item-label2">現在求人問い合わせは準備中です。<br>
+お問い合わせ頂いても対応出来ません。<br>
+しばらくお待ちください。</p>
 
 <form class="form" name="contact" method="POST">
   <div>
@@ -77,7 +112,7 @@
         <option value="21:00">21:00</option>
       </select>
 </div>
-</div>
+
 
   <div>
   <p class="form-item-label"><span class="form-item-label-required2">任意</span>面接希望日(第2希望)</p>
@@ -98,7 +133,7 @@
         <option value="21:00">21:00</option>
       </select>
 </div>
-</div>
+
 
   <div>
   <p class="form-item-label"><span class="form-item-label-required2">任意</span>面接希望日(第3希望)</p>
@@ -119,7 +154,7 @@
         <option value="21:00">21:00</option>
       </select>
 </div>
-</div>
+
 
    <div>
     <p class="form-item-label"><span class="form-item-label-required2">任意</span>写真</p>
@@ -141,5 +176,8 @@
   <div>
 
 <footer class="footer2">
-        <p>Copyright © 名古屋栄メンズエステ【nurunuru】 All Rights Reserved.</p>
+        <p>Copyright © 名古屋栄メンズエステ【Aman】 All Rights Reserved.</p>
     </footer>
+
+          </div>
+</div>

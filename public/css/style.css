@@ -935,6 +935,13 @@ margin-left: 10%;
   font-size: 16px;
 }
 
+.form-item-label2 {
+  text-align: center;
+  margin: 10px auto;
+  font-size: 24px;
+  font-weight: bold;
+}
+
 .form-item-label-required {
   border-radius: 6px;
   margin-right: 8px;
@@ -1104,11 +1111,21 @@ text-align: center;
       background-image: url("../img/85759160_163x291.jpg");
     }
 
+         #mobileback2 {
+           background-color: rgb(255, 255, 255);
+         }
+
   .pc{
     width: 50%;
     margin: 0 auto;
   }
 
+  .form-item-label2{
+    text-align: center;
+    margin: 10px auto;
+    font-size: 24px;
+    font-weight: bold;
+  }
 
    img {
      max-width: 100%;
