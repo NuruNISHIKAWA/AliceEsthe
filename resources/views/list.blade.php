@@ -10,18 +10,27 @@
 </head>
 <body>
 
+<div id="mobileback">
+<div class="pc">
+
 <header class="header">
         <p class="htext">お得なイベント開催中！</p>
 </header>
 
 <div class="fixfooter">
 <div class="foot-btn">
+
+    <a href="tel:080-4590-2442"  class=”nurnur”>
+  
         <p class="tell-btm">
+
           <span class="tell-btm2">受付時間24時間</span>
           </br>今すぐ電話予約</p>
-
+          </a>
+          
+<div class="rec-btm2">
         <p class="rec-btm">セラピスト求人は</br>
-      こちらをクリック</p>
+      こちらをクリック</p></div>
 
 </div>
 </div>
@@ -52,8 +61,8 @@
     <div class="tophome">
             名古屋栄メンズエステ【Aman（アマン）】
         </div>
-        <div>
-            <img src="img/IMG_1617.JPG" alt="">
+         <div class="br2">
+            <img src="img/IMG_1656.JPG" alt="">
         </div>
   
         <div class="line">
@@ -76,33 +85,19 @@
 
         <div class="space">
     <p class="common__ttl">Theraphist List</p>
-        <div class="grid_girl">
-            <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
-  @csrf
-<input type="hidden" name="name" value="ちーず" >
-<input type=image class="item2" src="img/IMG_1588.PNG" class="item2">
-</form>
-<p class="grid_detail ">
-          ちーず<br>
-          年齢:20歳<br>
-          身長:158cm<br>
-          趣味：映画鑑賞、音楽<br>
-          コメント：お客様に癒しを届けるために精一杯ご奉仕致します。<br>
-          Twitter：@renho_sha<br>
-        </p>
-        </div>
+        
         <div class="grid_girl">
                       <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
   @csrf
 <input type="hidden" name="name" value="らむ" >
-<input type=image class="item2" src="img/IMG_1588.PNG" class="item2">
+<input type=image class="item2" src="img/IMG_1618.JPG" class="item2">
 </form>
-          <p class="grid_detail ">
-          らむ<br>
-          年齢:20歳<br>
-          身長:158cm<br>
-          趣味：映画鑑賞、音楽<br>
-          コメント：お客様に癒しを届けるために精一杯ご奉仕致します。<br>
+         <p class="grid_detail ">
+          **<br>
+          年齢:**歳<br>
+          身長:**cm<br>
+          趣味：**<br>
+          コメント：❤︎<br>
           Twitter：@renho_sha<br>
         </p>
         </div>
@@ -111,14 +106,14 @@
                      <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
   @csrf
 <input type="hidden" name="name" value="ぐらん" >
-<input type=image class="item2" src="img/IMG_1588.PNG" class="item2">
+<input type=image class="item2" src="img/IMG_1618.JPG" class="item2">
 </form>
           <p class="grid_detail ">
-          ぐらん<br>
-          年齢:20歳<br>
-          身長:158cm<br>
-          趣味：映画鑑賞、音楽<br>
-          コメント：お客様に癒しを届けるために精一杯ご奉仕致します。<br>
+          **<br>
+          年齢:**歳<br>
+          身長:**cm<br>
+          趣味：**<br>
+          コメント：❤︎<br>
           Twitter：@renho_sha<br>
         </p>
         </div>
@@ -127,14 +122,14 @@
                      <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
   @csrf
 <input type="hidden" name="name" value="じじ" >
-<input type=image class="item2" src="img/IMG_1588.PNG" class="item2">
+<input type=image class="item2" src="img/IMG_1618.JPG" class="item2">
 </form>
           <p class="grid_detail ">
-          じじ<br>
-          年齢:20歳<br>
-          身長:158cm<br>
-          趣味：映画鑑賞、音楽<br>
-          コメント：お客様に癒しを届けるために精一杯ご奉仕致します。<br>
+          **<br>
+          年齢:**歳<br>
+          身長:**cm<br>
+          趣味：**<br>
+          コメント：❤︎<br>
           Twitter：@renho_sha<br>
         </p>
         </div>
@@ -143,14 +138,14 @@
                      <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
   @csrf
 <input type="hidden" name="name" value="なの" >
-<input type=image class="item2" src="img/IMG_1588.PNG" class="item2">
+<input type=image class="item2" src="img/IMG_1618.JPG" class="item2">
 </form>
           <p class="grid_detail ">
-          なの<br>
-          年齢:20歳<br>
-          身長:158cm<br>
-          趣味：映画鑑賞、音楽<br>
-          コメント：お客様に癒しを届けるために精一杯ご奉仕致します。<br>
+          **<br>
+          年齢:**歳<br>
+          身長:**cm<br>
+          趣味：**<br>
+          コメント：❤︎<br>
           Twitter：@renho_sha<br>
         </p>
         </div>
@@ -159,14 +154,127 @@
                      <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
   @csrf
 <input type="hidden" name="name" value="めあ" >
-<input type=image class="item2" src="img/IMG_1588.PNG" class="item2">
+<input type=image class="item2" src="img/IMG_1618.JPG" class="item2">
 </form>
           <p class="grid_detail ">
-          めあ<br>
-          年齢:20歳<br>
-          身長:158cm<br>
-          趣味：映画鑑賞、音楽<br>
-          コメント：お客様に癒しを届けるために精一杯ご奉仕致します。<br>
+          **<br>
+          年齢:**歳<br>
+          身長:**cm<br>
+          趣味：**<br>
+          コメント：❤︎<br>
+          Twitter：@renho_sha<br>
+        </p>
+        </div>
+
+
+        <div class="grid_girl">
+                      <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
+  @csrf
+<input type="hidden" name="name" value="らむ" >
+<input type=image class="item2" src="img/IMG_1618.JPG" class="item2">
+</form>
+         <p class="grid_detail ">
+          **<br>
+          年齢:**歳<br>
+          身長:**cm<br>
+          趣味：**<br>
+          コメント：❤︎<br>
+          Twitter：@renho_sha<br>
+        </p>
+        </div>
+
+        <div class="grid_girl">
+                      <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
+  @csrf
+<input type="hidden" name="name" value="らむ" >
+<input type=image class="item2" src="img/IMG_1618.JPG" class="item2">
+</form>
+         <p class="grid_detail ">
+          **<br>
+          年齢:**歳<br>
+          身長:**cm<br>
+          趣味：**<br>
+          コメント：❤︎<br>
+          Twitter：@renho_sha<br>
+        </p>
+        </div>
+
+        <div class="grid_girl">
+                      <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
+  @csrf
+<input type="hidden" name="name" value="らむ" >
+<input type=image class="item2" src="img/IMG_1618.JPG" class="item2">
+</form>
+         <p class="grid_detail ">
+          **<br>
+          年齢:**歳<br>
+          身長:**cm<br>
+          趣味：**<br>
+          コメント：❤︎<br>
+          Twitter：@renho_sha<br>
+        </p>
+        </div>
+
+        <div class="grid_girl">
+                      <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
+  @csrf
+<input type="hidden" name="name" value="らむ" >
+<input type=image class="item2" src="img/IMG_1618.JPG" class="item2">
+</form>
+         <p class="grid_detail ">
+          **<br>
+          年齢:**歳<br>
+          身長:**cm<br>
+          趣味：**<br>
+          コメント：❤︎<br>
+          Twitter：@renho_sha<br>
+        </p>
+        </div>
+
+        <div class="grid_girl">
+                      <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
+  @csrf
+<input type="hidden" name="name" value="らむ" >
+<input type=image class="item2" src="img/IMG_1618.JPG" class="item2">
+</form>
+         <p class="grid_detail ">
+          **<br>
+          年齢:**歳<br>
+          身長:**cm<br>
+          趣味：**<br>
+          コメント：❤︎<br>
+          Twitter：@renho_sha<br>
+        </p>
+        </div>
+
+        <div class="grid_girl">
+                      <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
+  @csrf
+<input type="hidden" name="name" value="らむ" >
+<input type=image class="item2" src="img/IMG_1618.JPG" class="item2">
+</form>
+         <p class="grid_detail ">
+          **<br>
+          年齢:**歳<br>
+          身長:**cm<br>
+          趣味：**<br>
+          コメント：❤︎<br>
+          Twitter：@renho_sha<br>
+        </p>
+        </div>
+
+        <div class="grid_girl">
+                      <form class="grid_photo" method="post" action="/girl" enctype="multipart/form-data"> 
+  @csrf
+<input type="hidden" name="name" value="らむ" >
+<input type=image class="item2" src="img/IMG_1618.JPG" class="item2">
+</form>
+         <p class="grid_detail ">
+          **<br>
+          年齢:**歳<br>
+          身長:**cm<br>
+          趣味：**<br>
+          コメント：❤︎<br>
           Twitter：@renho_sha<br>
         </p>
         </div>
@@ -177,6 +285,9 @@
 <footer class="footer">
         <p>Copyright © 名古屋栄メンズエステ【nurunuru（ぬるぬる）】 All Rights Reserved.</p>
     </footer>
+
+    </div>
+</div>
 
 </body>
 </html>

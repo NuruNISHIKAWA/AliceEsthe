@@ -10,18 +10,27 @@
 </head>
 <body>
 
+<div id="mobileback">
+<div class="pc">
+
 <header class="header">
         <p class="htext">お得なイベント開催中！</p>
 </header>
 
 <div class="fixfooter">
 <div class="foot-btn">
+
+    <a href="tel:080-4590-2442"  class=”nurnur”>
+  
         <p class="tell-btm">
+
           <span class="tell-btm2">受付時間24時間</span>
           </br>今すぐ電話予約</p>
-
+          </a>
+          
+<div class="rec-btm2">
         <p class="rec-btm">セラピスト求人は</br>
-      こちらをクリック</p>
+      こちらをクリック</p></div>
 
 </div>
 </div>
@@ -53,8 +62,8 @@
     <div class="tophome">
             名古屋栄メンズエステ【Aman（アマン）】
         </div>
-        <div>
-            <img src="img/IMG_1617.JPG" alt="">
+                  <div class="br2">
+            <img src="img/IMG_1656.JPG" alt="">
         </div>
         <div class="line">
       </div>
@@ -187,9 +196,16 @@
 当サイトで掲載している写真の転載は固くお断り致します。発見時は1枚に付き10万円をお支払い頂きます。</p>
 !-->
 
+    </div>
+  
 
-</div>
+
 
 <footer class="footer">
         <p>Copyright © 名古屋栄メンズエステ【aman（アマン）】 All Rights Reserved.</p>
     </footer>
+
+        
+</div>
+</div>
+

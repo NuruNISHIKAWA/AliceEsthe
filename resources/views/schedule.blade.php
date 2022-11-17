@@ -10,18 +10,27 @@
 </head>
 <body>
 
+<div id="mobileback">
+<div class="pc">
+
 <header class="header">
         <p class="htext">お得なイベント開催中！</p>
 </header>
 
 <div class="fixfooter">
 <div class="foot-btn">
+
+    <a href="tel:080-4590-2442"  class=”nurnur”>
+  
         <p class="tell-btm">
+
           <span class="tell-btm2">受付時間24時間</span>
           </br>今すぐ電話予約</p>
-
+          </a>
+          
+<div class="rec-btm2">
         <p class="rec-btm">セラピスト求人は</br>
-      こちらをクリック</p>
+      こちらをクリック</p></div>
 
 </div>
 </div>
@@ -51,8 +60,8 @@
     <div class="tophome">
             名古屋栄メンズエステ【Aman（アマン）】
         </div>
-        <div>
-            <img src="img/IMG_1617.JPG" alt="">
+          <div class="br2">
+            <img src="img/IMG_1656.JPG" alt="">
         </div>
         <div class="line">
       </div>
@@ -61,13 +70,13 @@
   <div id="back">
 <table class="table_main2" cellpadding="15">
         <tr class="table_col">
-          <th>10/23</br>(日)</th>
-            <th>10/24</br>(月)</th>
-            <th>10/25</br>(火)</th>
-            <th>10/26</br>(水)</th>
-            <th>10/27</br>(木)</th>
-            <th>10/28</br>(金)</th>
-            <th>10/29</br>(土)</th>
+          <th>11/13</br>(日)</th>
+            <th>11/14</br>(月)</th>
+            <th>11/15</br>(火)</th>
+            <th>11/16</br>(水)</th>
+            <th>11/17</br>(木)</th>
+            <th>11/18</br>(金)</th>
+            <th>11/19</br>(土)</th>
         </tr>
     </table>
 
@@ -78,10 +87,10 @@
 
 </div>
 
-</div>
-
-
 
 <footer class="footer">
         <p>Copyright © 名古屋栄メンズエステ【Aman（アマン）】 All Rights Reserved.</p>
     </footer>
+
+    </div>
+</div>
