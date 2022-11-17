@@ -179,6 +179,7 @@
     <p class="form-item-label"><span class="form-item-label-required">必須</span>お問い合わせ内容</p>
     <textarea name="textarea" class="form-item-textarea"></textarea>
   </div>
+  <p class="form-item-label2">※現在求人問い合わせフォームは準備中です。</p>
   <input type="submit" class="form-btn" value="送信する">
 </form>
 <div>
