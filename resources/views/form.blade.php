@@ -58,9 +58,9 @@
       </div>
 </div>
 
-<p class="form-item-label2">現在求人問い合わせは準備中です。<br>
+<p class="form-item-label2">現在求人問い合わせ画面は準備中です。<br>
 しばらくお待ちください。<br>
-お問い合わせの場合はお電話にて承っております。</p>
+お問い合わせ•面接希望は<br>お電話にて承っております。</p>
 
 <div class="br3">
         <div class=”brrr3”>
