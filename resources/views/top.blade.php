@@ -56,16 +56,21 @@
     <div class="tophome">
             名古屋栄メンズエステ【Aman（アマン）】
         </div>
-        <div>
-            <img src="img/IMG_1621.JPG" alt="">
+        <div class="br2">
+            <img src="img/IMG_1656.JPG" alt="">
         </div>
     
 
 
-
-    <a href="tel:080-4590-2442"  class=”nurnur”>
-            <img src="img/IMG_1626.JPG" alt="">
+    <p class="brcom">ご予約はこちら</p>
+        <div class=”brrr3”>
+    <a href="tel:080-4590-2442" class=”brrr3”>
+<div class="brrr3">
+      <img src="img/IMG_1626.JPG" alt="" class=”brrr3”>
+      </div>
 </a>
+</div>
+</div>
 
         <!---
         <p class="home">
