@@ -49,11 +49,12 @@
             <img src="img/IMG_1656.JPG" alt="">
         </div>
 
+        <!---
         <p class="form-item-label2">料金•給料詳細</p>
-
          <div class="br2">
             <img src="img/スクリーンショット.png" alt="">
         </div>
+        --->
         <div class="line">
       </div>
 </div>

@@ -130,7 +130,7 @@
 
 <div class="menu0">
 <p class="menu1">延長30分</p>
-<p class="menu3">本指名8000円</p>
+<p class="menu3">8000円</p>
 </div>
 
 <p class="course">ご利用にあたっての注意事項</p>
