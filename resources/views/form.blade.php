@@ -188,8 +188,8 @@
 <div>
   <div>
 
-<footer class="footer">
-        <p>Copyright © 名古屋栄メンズエステ【Alice】 All Rights Reserved.</p>
+<footer class="footer2">
+        <p>Copyright © 名古屋栄メンズエステ【Alice（アリス）】 All Rights Reserved.</p>
     </footer>
 
           </div>

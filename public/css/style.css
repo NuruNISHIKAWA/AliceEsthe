@@ -115,7 +115,7 @@ label {
   width: 48px;
   height: 48px;
   border-radius: 48px;
-  background: rgb(245, 0, 245);
+  background: rgb(240, 31, 240);
   transition: background .6s, transform .6s cubic-bezier(0.215, 0.61, 0.355, 1);
 }
 
@@ -152,7 +152,7 @@ label {
 }
 
 #drawer:checked+.open {
-  background: rgb(247, 109, 247);
+  background: rgb(240, 31, 240);
   transform: translateX(-280px);
 }
 
@@ -339,7 +339,7 @@ label {
   font-size: 24px;
   font-weight: bold;
   font-family: "Indie Flower", cursive;
-    color: rgb(238, 20, 93);
+    color: purple;
     margin: 10px 0px 10px 0px;
 }
 .logo {
@@ -1142,7 +1142,7 @@ text-align: center;
      z-index: 1;
      height: 24px;
      font-size: 16px;
-     background: #ecb7c0;
+     background: rgb(240, 31, 240);
      font-weight: bold;
      color: #fff;
      position: fixed;
@@ -1242,7 +1242,7 @@ margin-left: 50%;
      width: 48px;
      height: 48px;
      border-radius: 48px;
-     background: #ed7097;
+     background: rgb(240, 31, 240);
      transition: background .6s, transform .6s cubic-bezier(0.215, 0.61, 0.355, 1);
    }
 
@@ -1279,7 +1279,7 @@ margin-left: 50%;
    }
 
    #drawer:checked+.open {
-     background: #dc6688;
+     background: rgb(240, 31, 240);
      transform: translateX(-80px);
    }
 
@@ -1313,6 +1313,7 @@ margin-left: 50%;
      padding: 20px;
      height: 405px;
      background: #ffffff;
+    background-image: url("../img/IMG_1889.JPG");
      margin: 20px -5% 10px -5%;
      width: 40%;
      border: 2px solid;
@@ -1465,7 +1466,7 @@ margin-left: 50%;
      font-size: 24px;
      font-weight: bold;
      font-family: "Indie Flower", cursive;
-     color: rgb(238, 20, 93);
+     color: purple;
      margin: 10px 0px 10px 0px;
    }
 
@@ -1591,7 +1592,7 @@ margin-left: 50%;
      line-height: 60px;
      font-size: 7px;
 
-     background: #e6566e;
+     background: rgb(240, 31, 240);
    }
 
    /*---------------------list--------------------- */
