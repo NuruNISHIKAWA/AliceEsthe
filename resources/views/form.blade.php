@@ -69,7 +69,7 @@
         <div class=”brrr3”>
     <a href="tel:080-4590-2442" class=”brrr3”>
 <div class="brrr3">
-      <img src="img/IMG_1626.JPG" alt="" class=”brrr3”>
+      <img src="img/IMG_1894.JPG" alt="" class=”brrr3”>
       </div>
 </a>
 </div>

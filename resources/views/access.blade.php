@@ -72,7 +72,7 @@
   <div id="back">
 
         <div>
-          <h2 class="access_text">Aman 栄店</h2>
+          <h2 class="access_text">Alice 栄店</h2>
           	<div>
               <hr size="1">
             </div>
@@ -92,7 +92,7 @@
         </div>
 
  <div>
-          <h2 class="access_text">Aman 名駅店</h2>
+          <h2 class="access_text">Alice 名駅店</h2>
           	<div>
               <hr size="1">
             </div>

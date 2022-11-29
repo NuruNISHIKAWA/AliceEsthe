@@ -81,6 +81,8 @@
         </tr>
     </table>
 
+    <h2 class="brcom">12/1(木)のセラピスト<h2>
+
     <div class="space">
 
    
