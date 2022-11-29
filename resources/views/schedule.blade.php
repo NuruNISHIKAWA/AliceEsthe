@@ -71,13 +71,13 @@
   <div id="back">
 <table class="table_main2" cellpadding="15">
         <tr class="table_col">
-          <th>11/13</br>(日)</th>
-            <th>11/14</br>(月)</th>
-            <th>11/15</br>(火)</th>
-            <th>11/16</br>(水)</th>
-            <th>11/17</br>(木)</th>
-            <th>11/18</br>(金)</th>
-            <th>11/19</br>(土)</th>
+          <th>11/27</br>(日)</th>
+            <th>11/28</br>(月)</th>
+            <th>11/29</br>(火)</th>
+            <th>11/30</br>(水)</th>
+            <th>12/1</br>(木)</th>
+            <th>12/2</br>(金)</th>
+            <th>12/3</br>(土)</th>
         </tr>
     </table>
 
