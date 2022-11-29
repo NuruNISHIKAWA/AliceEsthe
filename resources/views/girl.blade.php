@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/style.css">
-  <title>名古屋栄メンズエステ【Aman（アマン）】</title>
+  <title>名古屋栄メンズエステ【Alice（アリス）】</title>
 </head>
 <body>
 
@@ -66,10 +66,10 @@
 
 <div>
     <div class="tophome">
-            名古屋栄メンズエステ【Aman（アマン）】
+            名古屋栄メンズエステ【Alice（アリス）】
         </div>
         <div class="br2">
-            <img src="img/IMG_1656.JPG" alt="">
+            <img src="img/IMG_1885.JPG" alt="">
         </div>
        
         <div class="line">
@@ -154,7 +154,7 @@
 </div>
 </div>
 <footer class="footer">
-        <p>Copyright © 名古屋栄メンズエステ【nurunuru（ぬるぬる）】 All Rights Reserved.</p>
+        <p>Copyright © 名古屋栄メンズエステ【Alice（アリス）】 All Rights Reserved.</p>
     </footer>
 
         </div>

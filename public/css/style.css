@@ -15,7 +15,7 @@ a {
 z-index: 1;
    height: 24px;
    font-size: 16px;
-   background: #ecb7c0;
+   background: rgb(249, 1, 249);
    font-weight: bold;
    color: #fff;
    position: fixed;
@@ -186,6 +186,7 @@ label {
   padding: 20px;
   height: 405px;
     background: #ffffff;
+    background-image: url("../img/IMG_1889.JPG");
     margin: 20px 5% 10px 5%;
     width: 90%;
     border: 2px solid;
@@ -200,7 +201,7 @@ label {
 }
 
 .menu h2 {
-  color: rgb(249, 83, 83);
+  color: rgb(27, 27, 27);
   font-family: "Ubuntu Condensed", sans-serif;
   font-weight: 400;
   letter-spacing: .1em;
@@ -220,13 +221,13 @@ label {
 }
 
 .menu li:not(:first-child) {
-  border-top: 1px solid rgba(255, 255, 255, .6);
+  border-top: 1px solid rgb(255, 255, 255);
 }
 
 .menu a {
   display: block;
   padding: 1em 2em;
-  color: rgb(243, 99, 99);
+  color: rgb(15, 15, 15);
   text-decoration: inherit;
   transition: background .6s;
 }
@@ -397,12 +398,12 @@ color: red;
 }
 
 #back{
-background-image: url("../img/publicdomainq-0044080hep.jpg");
+background-image: url("../img/IMG_1889.JPG");
 padding: 5px 0px 140px 0px;;
 }
 
 #back2 {
-  background:rgb(227, 225, 225);
+  background:rgb(238, 161, 238);
   padding: 10px 5px 40px 0px;
 }
 
@@ -461,7 +462,7 @@ padding: 5px 0px 140px 0px;;
           line-height: 60px;
           font-size: 7px;
          
-          background: #e6566e;
+          background: rgb(255, 1, 255);
         }
 
 /*---------------------list--------------------- */
@@ -470,7 +471,7 @@ padding: 5px 0px 140px 0px;;
   
   padding: 2px;
   margin-top: 0px;
-  background: #e95d50;
+  background: rgb(249, 1, 249);
   /*背景色*/
 }
 
@@ -588,7 +589,7 @@ width: 90%;
   
       height: 24px;
       font-size: 18px;
-      background: #e6566e;
+      background:rgb(244, 76, 244);
       font-weight: bold;
       color: #fff;
 
@@ -1089,7 +1090,7 @@ text-align: center;
 
  .brcom{
   font-size: 18px;
-  color: rgb(242, 68, 68);
+  color: purple;
   text-align: center;
 
  }
@@ -1524,13 +1525,13 @@ margin-left: 50%;
    }
 
    #back {
-     background-image: url("../img/publicdomainq-0044080hep.jpg");
+     background-image: url("../img/IMG_1884.JPG");
      padding: 5px 0px 140px 0px;
      ;
    }
 
    #back2 {
-     background: rgb(227, 225, 225);
+     background: rgb(244, 152, 244);
      padding: 10px 5px 40px 0px;
    }
 

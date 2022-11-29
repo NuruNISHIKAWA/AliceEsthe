@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/style.css">
-  <title>名古屋栄メンズエステ【Aman（アマン）】</title>
+  <title>名古屋栄メンズエステ【Alice（アリス）】</title>
 </head>
 <body>
 
@@ -59,18 +59,18 @@
 <div class=”brrr”>
 
     <div class="tophome">
-            名古屋栄メンズエステ【Aman（アマン）】
+            名古屋栄メンズエステ【Alice（アリス）】
         </div>
         <div class="br2">
-            <img src="img/IMG_1656.JPG" alt="">
+            <img src="img/IMG_1885.JPG" alt="">
         </div>
     
 <div class="br3">
-    <p class="brcom">ご予約はこちら</p>
+    <p class="brcom">不思議な国へようこそ</p>
         <div class=”brrr3”>
     <a href="tel:080-4590-2442" class=”brrr3”>
 <div class="brrr3">
-      <img src="img/IMG_1626.JPG" alt="" class=”brrr3”>
+      <img src="img/IMG_1894.JPG" alt="" class=”brrr3”>
       </div>
 </a>
 </div>
@@ -170,7 +170,7 @@
 <div class="space">
       <p class="common__ttl">News</p>
       <a class="topgirl2" href="">
-        <img src="img/IMG_1616.JPG" alt="">
+        <img src="img/IMG_1895.JPG" alt="">
 </a>
 
 </div>
@@ -180,7 +180,7 @@
 </div>
 
 <footer class="footer">
-        <p>Copyright © 名古屋栄メンズエステ【Aman（アマン）】 All Rights Reserved.</p>
+        <p>Copyright © 名古屋栄メンズエステ【Alice（アリス）】 All Rights Reserved.</p>
     </footer>
 
 </div>
